@@ -1,6 +1,6 @@
 # C_P_Vid
 
-Facial recognition
+Facial recognition (frontals...later will add more)
 
 Training data from haarcascade_frontalface_default.xml
 
