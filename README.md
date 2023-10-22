@@ -1,4 +1,4 @@
-# Computer Vision: Facial Detection on Images, Webcam, and Videos
+# Facial Detection on Images, Webcam, and Videos
 
 Facial recognition (frontals...later will add more)
 
